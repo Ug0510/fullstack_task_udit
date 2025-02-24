@@ -62,6 +62,20 @@ npm run dev
 
 3. Open your browser and navigate to `http://localhost:3000`
 
+### To Install and Run project in Single Terminal(Shortcut) 
+
+1. Install node modules in main directory
+   ```bash
+   npm install
+
+2. Install the node modules of both frontend and backend
+   ```bash
+   npm run install:all
+
+3. Run the project
+   ```bash
+   npm start
+
 ## API Endpoints
 
 - `GET /fetchAllTasks` - Retrieves all todo items
